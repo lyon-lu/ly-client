@@ -1,4 +1,4 @@
-package com.study.client;
+package com.study.web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

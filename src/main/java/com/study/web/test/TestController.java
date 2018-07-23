@@ -1,4 +1,4 @@
-package com.study.client.test;
+package com.study.web.test;
 
 import javax.annotation.Resource;
 import javax.servlet.http.HttpServletRequest;

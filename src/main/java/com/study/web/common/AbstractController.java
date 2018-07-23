@@ -4,7 +4,7 @@
  *
  * AbstractController.java created on Jul 20, 2018 4:07:00 PM by Lyon Lu 
  */
-package com.study.client.common;
+package com.study.web.common;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

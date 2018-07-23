@@ -1,4 +1,4 @@
-package com.study.client.config;
+package com.study.web.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.util.ResourceUtils;
